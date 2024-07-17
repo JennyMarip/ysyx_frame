@@ -1,0 +1,8 @@
+top=our
+
+# input (a, b)
+a SW0
+b SW1
+
+# output (f)
+f LD0
