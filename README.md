@@ -1,2 +1,2 @@
 # ysyx_frame
-ysyx frame(my code is under the npc directory)
+my npc dic in ysyx
